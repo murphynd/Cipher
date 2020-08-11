@@ -1,4 +1,5 @@
-# Practice writing functions for encoding a sentence from your user, as if you wanted to keep someone from reading it. To complete this exercise review previous lessons and the JavaScript methods we've covered thus far.
+# Practice writing functions for encoding a sentence from your user
+### as if you wanted to keep someone from reading it. To complete this exercise review previous lessons and the JavaScript methods we've covered thus far.
 
 * Create a JavaScript file and an HTML file in VS Code for this project so that you can load your JavaScript in the browser.
 
